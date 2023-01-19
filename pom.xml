@@ -34,7 +34,7 @@
 
         <endpoints-framework.version>2.5.1</endpoints-framework.version>
 
-        <gae.version>1.9.91</gae.version>
+        <gae.version>2.0.10</gae.version>
 
         <endpoints-authenticators.scm.connection>git@github.com:AODocs/endpoints-authenticators.git</endpoints-authenticators.scm.connection>
         <endpoints-authenticators.scm.url>https://github.com/AODocs/endpoints-authenticators</endpoints-authenticators.scm.url>
