@@ -38,7 +38,7 @@
 
         <endpoints-authenticators.scm.connection>git@github.com:AODocs/endpoints-authenticators.git</endpoints-authenticators.scm.connection>
         <endpoints-authenticators.scm.url>https://github.com/AODocs/endpoints-authenticators</endpoints-authenticators.scm.url>
-        <flogger.version>0.7.1</flogger.version>
+        <flogger.version>0.7.4</flogger.version>
     </properties>
 
     <dependencyManagement>
